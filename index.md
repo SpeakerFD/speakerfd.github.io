@@ -5,10 +5,8 @@ You can use the [editor on GitHub](https://github.com/SpeakerFD/speakerfd.github
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Our Calendar
-
 <iframe src="https://calendar.google.com/calendar/embed?src=uq46bc7ifmnpriogg47mqcq5tg%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
