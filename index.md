@@ -1,9 +1,8 @@
 
 ## Welcome to our Page
+## Spanish Word of the Day
 
-You can use the [editor on GitHub](https://github.com/SpeakerFD/speakerfd.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+http://feeds.feedblitz.com/spanish-word-of-the-day
 
 ### Our Calendar
 <iframe src="https://calendar.google.com/calendar/embed?src=uq46bc7ifmnpriogg47mqcq5tg%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
