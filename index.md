@@ -1,3 +1,10 @@
+---
+img: Attach27458_20181226_111146.jpg
+---
+
+{% for post in site.posts %}
+<img src="{{ site.baseurl }}/{{ Attach27458_20181226_111146.jpg }}">
+{% endfor %}
 ## Welcome to our Page
 
 You can use the [editor on GitHub](https://github.com/SpeakerFD/speakerfd.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
