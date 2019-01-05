@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: R and K's Homepage
 logo: Attach27458_20181226_111146.jpg
+plugins:
+  - jekyll-feed
