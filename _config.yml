@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
 title: R and K's Homepage
+---
+img: Attach27458_20181226_111146.jpg
+---
 
+{% for post in site.posts %}
+<img src="{{ site.baseurl }}/{{ Attach27458_20181226_111146.jpg }}">
+{% endfor %}
