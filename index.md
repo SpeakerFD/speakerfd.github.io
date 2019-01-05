@@ -8,7 +8,7 @@
 
 ### The Grocery List
 
-ata: text/html,
+data: text/html,
 <html>
     <head>
         <title>Notepad</title>
